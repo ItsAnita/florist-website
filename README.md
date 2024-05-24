@@ -1,2 +1,2 @@
 # florist-website
-Proyecto realizado en el programa de Tecnolochicas 
+Project done in the Tecnolochicas programme using only HTML and CSS. 💐🌷🌺🌸🌹🌼🌻💐
